@@ -286,7 +286,7 @@ El modelo final se encuentra en:
 
 ---
 
-## 11. Archivos importantes (para el jurado)
+## 11. Archivos importantes
 
 - `README.md`
 - `data/dataset.yaml`
