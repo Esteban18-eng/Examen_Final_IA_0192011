@@ -1,9 +1,0 @@
-ultralytics
-flask
-opencv-python
-numpy
-pillow
-matplotlib
-seaborn
-labelImg
-icrawler

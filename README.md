@@ -207,5 +207,3 @@ python app/app.py
 
 3. Abre el navegador en `http://127.0.0.1:5000`.
 4. Sube una imagen y revisa la detección.
-
-> Nota: este entrenamiento usó etiquetas automáticas basadas en el nombre del archivo para una prueba rápida. Para mejor rendimiento real, anota cada imagen manualmente en `dataset/raw/labels` con `labelImg` y vuelve a entrenar.
