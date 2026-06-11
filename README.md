@@ -157,7 +157,7 @@ python .\app\app.py
 - `requirements.txt` — dependencias
 - `Evidencias/` — carpeta para capturas y gráficos
 
-Si quieres, actualizo `Evidencias/` con las curvas de la última corrida y genero un pequeño script para medir tasa de falsos positivos. ¿Lo preparo? 
+
 # Examen Final — Detección de Objetos con YOLO
 
 Proyecto: detección de `celular` y `teclado` usando YOLO y despliegue con Flask.
