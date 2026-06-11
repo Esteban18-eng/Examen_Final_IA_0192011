@@ -1,10 +1,4 @@
 #!/usr/bin/env python3
-"""Genera etiquetas YOLO simples basadas en el nombre de archivo.
-
-Regla: si el nombre contiene 'celular' -> class 0, 'teclado' -> class 1.
-La caja generada cubrirá gran parte de la imagen (centro, 90% ancho/alto).
-Usar solo para pruebas/demo; se recomienda anotar manualmente para entrenamiento real.
-"""
 import os
 from PIL import Image
 

@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-"""Descarga imágenes de Bing para varias clases usando icrawler.
-
-Uso:
+"""Uso:
   python scripts/download_images.py --classes "celular,teclado" --num 200
 
 Esto descargará imágenes en `dataset/raw/images` nombradas como <clase>_0001.jpg, etc.
