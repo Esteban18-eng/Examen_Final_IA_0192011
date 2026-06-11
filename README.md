@@ -59,8 +59,6 @@ Ejemplo de ejecución (ajusta `--epochs` y `--batch` según tu máquina):
 python scripts/train.py --data data/dataset.yaml --epochs 50 --batch 4
 ```
 
-- Opcional: `train.sh` incluye un comando ejemplo para Linux/WSL.
-
 ### 4.3 Salidas
 
 - Resultados y pesos se guardan en `runs/detect/<nombre-experimento>/weights/best.pt`.
